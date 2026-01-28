@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
 This repository presents a **weakly supervised framework** for optic disc (OD) and optic cup (OC) segmentation from retinal fundus images, developed for automated glaucoma screening. 
 
 The approach removes the reliance on pixel-level expert annotations by leveraging **anatomically guided pseudo-labels** generated from unannotated data, making it a scalable solution for large-scale deployment.
