@@ -76,14 +76,10 @@ This repository documents the methodology and supports the reproducibility of th
 
 ---
 
-## 📜 Citation
+*Please note: This repository is provided for academic review purposes only.*
 
-If you use or build upon this work, please cite:
+Use, reproduction, modification, or redistribution of any part
+of this repository is strictly prohibited without explicit
+written permission from the author.
 
-```bibtex
-@article{abbas2026weakly,
-  title={Weakly Supervised Optic Disc and Cup Segmentation Using Pseudo-Labels for Glaucoma Screening},
-  author={Meesam Abbas, Abdul Rauf},
-  journal={Under Review},
-  year={2026}
-}
+Contact: meeesam297@gmail.com
