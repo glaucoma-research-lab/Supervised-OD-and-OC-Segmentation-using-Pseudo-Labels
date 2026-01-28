@@ -1,0 +1,1 @@
+# Supervised-OD-and-OC-Segmentation-using-Pseudo-Labels
