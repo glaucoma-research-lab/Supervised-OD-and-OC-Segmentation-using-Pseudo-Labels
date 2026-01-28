@@ -42,6 +42,7 @@ Segmentation networks are trained using pseudo-labels as weak supervision:
 * **Hybrid Loss:** Designed to address class imbalance, boundary uncertainty, and label noise.
 
 ![Framework Overview](assets/proposed_weakly_supervised_visio.jpeg)
+
 *Figure: Pipeline diagram (Input → Pseudo-labels → Segmentation → vCDR).*
 
 ### 3. Clinical Metric Extraction
