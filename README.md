@@ -74,12 +74,11 @@ This repository documents the methodology and supports the reproducibility of th
 
 *Please note: Raw datasets are not included due to licensing constraints.*
 
----
 
-*Please note: This repository is provided for academic review purposes only.*
+This project was developed as a collaborative effort.
 
-Use, reproduction, modification, or redistribution of any part
-of this repository is strictly prohibited without explicit
-written permission from the author.
+- **Abdul Rauf** https://github.com/rauf358
+- **Meesam Abbas** https://github.com/imeesam
+Contact: 
+rauf4530115@cloud.neduet.edu.pk, abbas4501459@cloud.neduet.edu.pk
 
-Contact: meeesam297@gmail.com
